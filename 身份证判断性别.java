@@ -1,10 +1,9 @@
-package xiongzheng;
 
 import java.util.Scanner;
 
-public class JudgeSex.java {
+public class JudgeSex {
 	public static void main(String[] args){
-		System.out.println("ÇëÊäÈëÉí·İÖ¤ºÅÂë£º");
+		System.out.println("è¯·è¾“å…¥èº«ä»½è¯å·ç ï¼š");
 		Scanner in = new Scanner(System.in);
 		String a ;
 		char[] b ;
@@ -12,27 +11,27 @@ public class JudgeSex.java {
 			a = in.nextLine();
 			b = a.toCharArray(); 
 			if(b.length!=18){
-				System.out.println("ÇëÊäÈë18Î»Éí·İÖ¤ºÅ:");
+				System.out.println("è¯·è¾“å…¥18ä½èº«ä»½è¯å·:");
 				continue;
 			}
-			for(int i=0;i<18;i++){
+			for(int i=0;i<17;i++){
 				if(!Character.isDigit(b[i])){
-					System.out.println("ÇëÊäÈëÕıÈ·µÄÉí·İÖ¤ºÅ:");
+					System.out.println("è¯·è¾“å…¥æ­£ç¡®çš„èº«ä»½è¯å·:");
 					continue;
 				}
 			}
-			if(!Character.isDigit(b[18])){
-				if(b[18]!='x'){
-					System.out.println("ÇëÊäÈëÕıÈ·µÄÉí·İÖ¤ºÅ:");
+			if(!Character.isDigit(b[17])){
+				if(b[17]!='x'){
+					System.out.println("è¯·è¾“å…¥æ­£ç¡®çš„èº«ä»½è¯å·:");
 					continue;
 				}
 			}
-			if(b[17]%2==0){
-				System.out.println("ĞÔ±ğ£ºÅ®");
+			if(b[16]%2==0){
+				System.out.println("æ€§åˆ«ï¼šå¥³");
 				break;
 			}
 			else{
-				System.out.println("ĞÔ±ğ£ºÄĞ");
+				System.out.println("æ€§åˆ«ï¼šç”·");
 				break;
 			}
 		}
