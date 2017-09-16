@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Students> 
   <Student num="1" i="1"> 
-    <name>ÐÜÕþ</name>  
-    <sex>ÄÐ</sex>
+    <name>ç†Šæ”¿</name>  
+    <sex>ç”·</sex>
     <age>20</age>  
-    <subject><![CDATA[Èí¹¤]]></subject>  
+    <subject><![CDATA[è½¯å·¥]]></subject>  
   </Student>  
   <Student num="2"> 
-    <name>ÑîÔª¾ê</name> 
-    <sex>Å®</sex> 
+    <name>æ¨å…ƒå¨Ÿ</name> 
+    <sex>å¥³</sex> 
     <age>20</age>  
-    <subject><![CDATA[Èí¹¤]]></subject>  
+    <subject><![CDATA[è½¯å·¥]]></subject>  
   </Student>  
   <Student num="3"> 
-    <name>¿ÜË¬</name> 
-    <sex>ÄÐ</sex> 
+    <name>å¯‡çˆ½</name> 
+    <sex>ç”·</sex> 
     <age>20</age>  
-    <subject><![CDATA[Èí¹¤]]></subject>  
+    <subject><![CDATA[è½¯å·¥]]></subject>  
   </Student>  
   <Student num="4"> 
-    <name>ÕÅç÷·²</name>  
-    <sex>ÄÐ</sex>
+    <name>å¼ çªå‡¡</name>  
+    <sex>ç”·</sex>
     <age>20</age>  
-    <subject><![CDATA[Èí¹¤]]></subject>  
+    <subject><![CDATA[è½¯å·¥]]></subject>  
   </Student>  
   <Student num="5"> 
-    <name>ÁõÑÅæÃ</name>  
-    <sex>Å®</sex>
+    <name>åˆ˜é›…å©·</name>  
+    <sex>å¥³</sex>
     <age>20</age>  
-    <subject><![CDATA[Èí¹¤]]></subject>  
+    <subject><![CDATA[è½¯å·¥]]></subject>  
   </Student>  
   <Student num="6"> 
-    <name>½ªÀÚ</name>  
-    <sex>ÄÐ</sex>
+    <name>å§œç£Š</name>  
+    <sex>ç”·</sex>
     <age>20</age>  
-    <subject><![CDATA[Èí¹¤]]></subject>  
+    <subject><![CDATA[è½¯å·¥]]></subject>  
   </Student>  
   <Student num="7"> 
-    <name>Ñîº½</name>  
-    <sex>ÄÐ</sex>
+    <name>æ¨èˆª</name>  
+    <sex>ç”·</sex>
     <age>20</age>  
-    <subject><![CDATA[Èí¹¤]]></subject>  
+    <subject><![CDATA[è½¯å·¥]]></subject>  
   </Student>  
   <Student num="8"> 
-    <name>ÇÇ½­ÄÏ</name>  
-    <sex>Å®</sex>
+    <name>ä¹”æ±Ÿå—</name>  
+    <sex>å¥³</sex>
     <age>20</age>  
-    <subject><![CDATA[Èí¹¤]]></subject> 
+    <subject><![CDATA[è½¯å·¥]]></subject> 
   </Student>  
   <Student num="9"> 
-    <name>ÕÔÖÐÔ­</name>
-    <sex>ÄÐ</sex>  
+    <name>èµµä¸­åŽŸ</name>
+    <sex>ç”·</sex>  
     <age>20</age>  
-    <subject><![CDATA[Èí¹¤]]></subject>  
+    <subject><![CDATA[è½¯å·¥]]></subject>  
   
